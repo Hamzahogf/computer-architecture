@@ -1,4 +1,4 @@
-#copy right: Dr.AHMED FOUATIH HAMZA FAIZ.   course : ARCHITECUR-2  LAB-6 ,  year: 2024-2025        
+#copy right: Student.AHMED FOUATIH HAMZA FAIZ.   course : ARCHITECUR-2  LAB-6 ,  year: 2024-2025        
 #the programe for : cellcuse <-> fernhite ; binary <-> decimal
 #make sure to read the comments are very usefull as they are many
 #HAPPY RAMADAN
