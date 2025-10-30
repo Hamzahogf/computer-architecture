@@ -1,7 +1,7 @@
 .data
 	promt: .asciz "enter the value : "
 	final: .asciz "the final result here you go : "
-	
+	 
 .text
 
 li a7 , 4
