@@ -1,7 +1,7 @@
 #enter a number i and output msg i time
 .data
 	prompt: .asciz "enter a number : "
-	msg:    .asciz "Salem\n"
+	msg:    .asciz "Salem\n" 
 	
 .global _start
 
