@@ -1,5 +1,5 @@
 # These file is prepared by Student.Ahmed Fouatih Hamza Faiz,  Archi-2   winter-2025
-# These program take an positive number x and calculate : x^5 + 6x^3 + 3x + 4.
+# These program take an positive number x and calculate : x^5 + 6x^3 + 3x + 4. 
 
 
 
