@@ -1,6 +1,6 @@
 #----------------------------------------------------------------------------------------------------------------
 # These file is prepared by Student.Ahmed Fouatih Hamza Faiz,  Archi-2   winter-2025
-# These program imply quicksort for soring an array given in the data
+# These program imply quicksort for soring an array given in the data 
 #--------------------------------------------------------CHALANGE------------------------------------------------
  
 
